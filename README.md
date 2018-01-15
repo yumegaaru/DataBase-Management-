@@ -1,5 +1,4 @@
-# DataBase-Management-
-# Yunlu Hao
+
 # readme.txt
 
 The first task is to design a database of customers and the flights they book. 
