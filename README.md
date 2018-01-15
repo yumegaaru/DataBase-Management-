@@ -1,10 +1,4 @@
 # Ruby-Calculator-
-<<<<<<< HEAD
-# DataBase-Management-
-# DataBase-Management-
-# DataBase-Management-
-# DataBase-Management-
-=======
 # Yunlu Hao
 # readme.txt
 
